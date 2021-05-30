@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e15cf0e-1d62-492f-9e3f-72f436c539f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tGCXCLU1i4Ao84MqzNuhwapEfs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e15cf0e-1d62-492f-9e3f-72f436c539f3" name="Default Changelist" comment="" />
+      <created>1622386076366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622386076366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="280" width="424" height="491" key="FileChooserDialogImpl" timestamp="1622386930123">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="738" y="280" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1622386930123" />
+    <state x="449" y="154" width="1022" height="737" key="SettingsEditor" timestamp="1622386768928">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="449" y="154" width="1022" height="737" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1622386768928" />
+  </component>
+</project>
